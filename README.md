@@ -1,0 +1,3 @@
+# fatality-crack-2018-archived
+original github "notunixian" got removed and i still have his loader so...
+i'll just leave this here for everyone who didn't download it earlier or for those whom anti virus removed this
